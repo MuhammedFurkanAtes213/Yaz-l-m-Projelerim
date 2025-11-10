@@ -1,0 +1,15 @@
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\bin\Debug\net9.0\Debug.exe
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\bin\Debug\net9.0\Debug.deps.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\bin\Debug\net9.0\Debug.runtimeconfig.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\bin\Debug\net9.0\Debug.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\bin\Debug\net9.0\Debug.pdb
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.AssemblyInfo.cs
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.sourcelink.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\refint\Debug.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.pdb
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\Debug.genruntimeconfig.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Debug\obj\Debug\net9.0\ref\Debug.dll
