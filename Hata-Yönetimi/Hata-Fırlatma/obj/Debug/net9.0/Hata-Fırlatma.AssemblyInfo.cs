@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Bilgi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Hata-Fırlatma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f254a1e655c364e587d79c2f6796697273684f50")]
-[assembly: System.Reflection.AssemblyProductAttribute("Bilgi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Bilgi")]
+[assembly: System.Reflection.AssemblyProductAttribute("Hata-Fırlatma")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Hata-Fırlatma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yazılım Projelerim\\Hata-Yönetimi\\Hata-Fırlatma\\Hata-Fırlatma.csproj",
+      "projectUniqueName": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Hata-Fırlatma\\Hata-Fırlatma.csproj",
       "projectName": "Hata-Fırlatma",
-      "projectPath": "E:\\Yazılım Projelerim\\Hata-Yönetimi\\Hata-Fırlatma\\Hata-Fırlatma.csproj",
+      "projectPath": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Hata-Fırlatma\\Hata-Fırlatma.csproj",
       "packagesPath": "C:\\Users\\Muhammed Furkan Ateş\\.nuget\\packages\\",
-      "outputPath": "E:\\Yazılım Projelerim\\Hata-Yönetimi\\Hata-Fırlatma\\obj\\",
+      "outputPath": "E:\\Yazılım Projelerim C#\\Hata-Yönetimi\\Hata-Fırlatma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

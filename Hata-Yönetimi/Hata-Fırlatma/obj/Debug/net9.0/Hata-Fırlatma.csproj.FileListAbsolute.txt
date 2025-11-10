@@ -1,0 +1,15 @@
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\bin\Debug\net9.0\Hata-Fırlatma.exe
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\bin\Debug\net9.0\Hata-Fırlatma.deps.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\bin\Debug\net9.0\Hata-Fırlatma.runtimeconfig.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\bin\Debug\net9.0\Hata-Fırlatma.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\bin\Debug\net9.0\Hata-Fırlatma.pdb
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.AssemblyInfo.cs
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.sourcelink.json
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\refint\Hata-Fırlatma.dll
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.pdb
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\Hata-Fırlatma.genruntimeconfig.cache
+E:\Yazılım Projelerim C#\Hata-Yönetimi\Hata-Fırlatma\obj\Debug\net9.0\ref\Hata-Fırlatma.dll
